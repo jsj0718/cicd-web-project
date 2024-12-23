@@ -7,6 +7,6 @@
     <h1>${msg}</h1>
     <h1>Hello, CI/CD and VM Server V2(updated by jeongsejin)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 1.1</h3>
+    <h3>Version: 1.2</h3>
 </body>
 </html>
